@@ -49,6 +49,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-G-2007&layout=compact&theme=radical)
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Aditya-G-2007/Aditya-G-2007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Aditya-G-2007/Aditya-G-2007/output/github-contribution-grid-snake.svg)
